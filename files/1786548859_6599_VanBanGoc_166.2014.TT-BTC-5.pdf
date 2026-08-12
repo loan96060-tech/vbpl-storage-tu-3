@@ -1,0 +1,1699 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head><meta name="robots" content="INDEX,FOLLOW" />
+    <meta name="description" content="Công báo nước CHXHCN Việt Nam - C&#244;ng b&#225;o số 781 + 782 ng&#224;y 14-07-2015" />
+    <title>
+	
+    C&#244;ng b&#225;o nước CHXHCN Việt Nam - C&#244;ng b&#225;o số 781 + 782 ng&#224;y 14/07/2015
+
+</title><link rel="shortcut icon" href="/favicon.ico" />
+    <link href="/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/Content/blueprint/screen.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/Content/blueprint/print.css" type="text/css" media="print" />
+    <!--[if lt IE 8]>
+        <link rel="stylesheet" href="/Content/blueprint/ie.css" type="text/css" media="screen, projection" />
+    <![endif]-->
+    <link rel="stylesheet" href="/Content/ui/jquery.ui.all.css" type="text/css" media="all" />
+    <script src="/Scripts/jquery-1.8.2.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.ui.core.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.ui.widget.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.ui.datepicker.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.ui.datepicker-vi.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("a.a-search").click(function () {
+                if (!$(".adv-search-content").hasClass("slided")) {
+                    $(".adv-search-content").slideDown('slow');
+                    $(".adv-search-content").addClass("slided");
+                    $(this).html("<img src='/Content/images/close.png' /> Tìm kiếm nâng cao (ấn vào để đóng)");
+                    $("div.search").slideUp('slow');
+                } else {
+                    $(".adv-search-content").slideUp('slow');
+                    $(".adv-search-content").removeClass("slided");
+                    $(this).html("<img src='/Content/images/open.png' /> Tìm kiếm nâng cao (ấn vào để mở)");
+                    $("div.search").slideDown('slow');
+                }
+            });
+            $("a.a-month").click(function () {
+                var e = $(this).next("ul.l-month");
+                if (e.hasClass("closed")) {
+                    $("ul.l-month").addClass("closed");
+                    e.removeClass("closed");
+                } else {
+                    e.addClass("closed");
+                }
+            });
+
+            $.datepicker.setDefaults($.datepicker.regional['fr']);
+            $("#txtTuNgay").datepicker({
+                changeMonth: true,
+                changeYear: true
+            });
+            $("#txtDenNgay").datepicker({
+                changeMonth: true,
+                changeYear: true
+            });
+        });
+        
+    </script>
+	
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26926141-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"e6gnh1a0k700M/", domain:"chinhphu.vn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=e6gnh1a0k700M/" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+ <div class="container">
+
+        <div class="span-24" id="header-top">
+            <div id="link-header">
+                <a href="http://www.chinhphu.vn/portal/page/portal/English">English</a> | 
+                <a href="http://cn.news.chinhphu.vn/">中文</a>
+            </div>
+            <!--<div style="clear: both;"></div>-->
+        </div>
+        <div class="span-24" id="header-banner">
+        </div>
+        <div class="span-24" id="header-bottom">
+            <ul>
+                <li><a href="http://www.chinhphu.vn/">Trang chủ</a></li>
+                <li><a href="http://baochinhphu.vn/">Báo điện tử chính phủ</a></li>
+            </ul>
+        </div>
+        <div class="span-24" id="nav">
+            <a class="main_menu selected_main_menu" href="/">C&#244;ng b&#225;o nước CHXHCN Việt Nam</a> |         
+            <a class="main_menu" href="/VanBan">Sơ đồ văn bản</a> |         
+            <a class="main_menu" href="/DanhMuc">Danh mục văn bản đăng C&#244;ng b&#225;o</a> |     
+            <a class="main_menu" href="/DiaPhuong">C&#244;ng b&#225;o địa phương</a> |     
+            <a class="main_menu" href="/gui-gop-y-y-kien-phan-hoi">G&#243;p &#253;</a> |     
+            <span style="padding-right:15px; vertical-align:middle; text-align:center; background-image: url('/Content/images/RSS.png'); background-repeat: no-repeat; background-position: 90% 33%;"><a class="main_menu" href="/cac-kenh-rss-cong-bao-chinh-phu.rss">RSS</a></span>
+
+        </div>
+		<!--Chuc mung nam moi-->
+		<!--
+		<div class="span-24" align="center">
+			<img src="/Content/images/2015.jpg" height="30px"  width="948px">
+		</div>
+		-->   
+    <div style="background-color: #fff; height:100%;">
+            <div class="span-6" style="height:100%;">
+                
+                
+    
+<div id="sidebar" style="height: 100%;">
+    <div class="box" style="height: 100%;">
+        <div class="box-title" >
+            Các số công báo 
+        </div>
+        <div class="box-list" id="theoNam">
+            <ul class="month">
+                <li>
+                    <select id="chonName" class="sidebar_yearlist" onchange="window.location = this.options[this.selectedIndex].value;">
+                        <option selected=&#39;selected&#39; value="http://congbao.chinhphu.vn/?nam=2015">
+                               2015</option>
+                        <option  value="http://congbao.chinhphu.vn/?nam=2014">
+                               2014</option>
+                        <option  value="http://congbao.chinhphu.vn/?nam=2013">
+                               2013</option>
+                        <option  value="http://congbao.chinhphu.vn/?nam=2012">
+                               2012</option>
+                        <option  value="http://congbao.chinhphu.vn/?nam=2011">
+                               2011</option>
+                        <option  value="http://congbao.chinhphu.vn/?nam=2010">
+                               2010</option>
+                        
+                    </select>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    7</a>
+                    
+                    <ul class="l-month">
+                        
+                        <li class="seleted_cong_bao">
+                            <a href="/cong-bao-so-781%20-%20782-nam-2015(19592)">&#187; Số 781 + 782 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-779%20-%20780-nam-2015(19591)">&#187; Số 779 + 780 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-777%20-%20778-nam-2015(19590)">&#187; Số 777 + 778 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-775%20-%20776-nam-2015(19589)">&#187; Số 775 + 776 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-773%20-%20774-nam-2015(19588)">&#187; Số 773 + 774 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-771%20-%20772-nam-2015(19587)">&#187; Số 771 + 772 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-769%20-%20770-nam-2015(19586)">&#187; Số 769 + 770 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-767%20-%20768-nam-2015(19585)">&#187; Số 767 + 768 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-765%20-%20766-nam-2015(19584)">&#187; Số 765 + 766 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-763%20-%20764-nam-2015(19583)">&#187; Số 763 + 764 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-761%20-%20762-nam-2015(19582)">&#187; Số 761 + 762 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-759%20-%20760-nam-2015(19581)">&#187; Số 759 + 760 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-757%20-%20758-nam-2015(19579)">&#187; Số 757 + 758 Ng&#224;y 14/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-755%20-%20756-nam-2015(19578)">&#187; Số 755 + 756 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-753%20-%20754-nam-2015(19577)">&#187; Số 753 + 754 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-751%20-%20752-nam-2015(19576)">&#187; Số 751 + 752 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-749%20-%20750-nam-2015(19575)">&#187; Số 749 + 750 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-747%20-%20748-nam-2015(19574)">&#187; Số 747 + 748 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-745%20-%20746-nam-2015(19573)">&#187; Số 745 + 746 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-743%20-%20744-nam-2015(19572)">&#187; Số 743 + 744 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-741%20-%20742-nam-2015(19571)">&#187; Số 741 + 742 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-739%20-%20740-nam-2015(19570)">&#187; Số 739 + 740 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-737%20-%20738-nam-2015(19569)">&#187; Số 737 + 738 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-735%20-%20736-nam-2015(19568)">&#187; Số 735 + 736 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-733%20-%20734-nam-2015(19567)">&#187; Số 733 + 734 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-731%20-%20732-nam-2015(19566)">&#187; Số 731 + 732 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-729%20-%20730-nam-2015(19565)">&#187; Số 729 + 730 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-727%20-%20728-nam-2015(19564)">&#187; Số 727 + 728 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-725%20-%20726-nam-2015(19563)">&#187; Số 725 + 726 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-723%20-%20724-nam-2015(19562)">&#187; Số 723 + 724 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-721%20-%20722-nam-2015(19561)">&#187; Số 721 + 722 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-719%20-%20720-nam-2015(19560)">&#187; Số 719 + 720 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-717%20-%20718-nam-2015(19559)">&#187; Số 717 + 718 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-715%20-%20716-nam-2015(19557)">&#187; Số 715 + 716 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-713%20-%20714-nam-2015(19556)">&#187; Số 713 + 714 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-711%20-%20712-nam-2015(19555)">&#187; Số 711 + 712 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-707%20-%20708-nam-2015(19554)">&#187; Số 707 + 708 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-705%20-%20706-nam-2015(19553)">&#187; Số 705 + 706 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-703%20-%20704-nam-2015(19552)">&#187; Số 703 + 704 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-701%20-%20702-nam-2015(19551)">&#187; Số 701 + 702 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-699%20-%20700-nam-2015(19550)">&#187; Số 699 + 700 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-697%20-%20698-nam-2015(19548)">&#187; Số 697 + 698 Ng&#224;y 12/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-695%20-%20696-nam-2015(19547)">&#187; Số 695 + 696 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-693%20-%20694-nam-2015(19546)">&#187; Số 693 + 694 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-691%20-%20692-nam-2015(19545)">&#187; Số 691 + 692 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-689%20-%20690-nam-2015(19544)">&#187; Số 689 + 690 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-687%20-%20688-nam-2015(19543)">&#187; Số 687 + 688 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-685%20-%20686-nam-2015(19542)">&#187; Số 685 + 686 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-683%20-%20684-nam-2015(19541)">&#187; Số 683 + 684 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-681%20-%20682-nam-2015(19539)">&#187; Số 681 + 682 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-679%20-%20680-nam-2015(19538)">&#187; Số 679 + 680 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-677%20-%20678-nam-2015(19537)">&#187; Số 677 + 678 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-675%20-%20676-nam-2015(19536)">&#187; Số 675 + 676 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-673%20-%20674-nam-2015(19535)">&#187; Số 673 + 674 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-671%20-%20672-nam-2015(19534)">&#187; Số 671 + 672 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-669%20-%20670-nam-2015(19533)">&#187; Số 669 + 670 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-667%20-%20668-nam-2015(19532)">&#187; Số 667 + 668 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-665%20-%20666-nam-2015(19531)">&#187; Số 665 + 666 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-663%20-%20664-nam-2015(19530)">&#187; Số 663 + 664 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-661%20-%20662-nam-2015(19528)">&#187; Số 661 + 662 Ng&#224;y 10/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-659%20-%20660-nam-2015(19519)">&#187; Số 659 + 660 Ng&#224;y 09/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-657%20-%20658-nam-2015(19502)">&#187; Số 657 + 658 Ng&#224;y 08/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-655%20-%20656-nam-2015(19499)">&#187; Số 655 + 656 Ng&#224;y 07/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-653%20-%20654-nam-2015(19496)">&#187; Số 653 + 654 Ng&#224;y 05/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-651%20-%20652-nam-2015(19493)">&#187; Số 651 + 652 Ng&#224;y 04/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-649%20-%20650-nam-2015(19492)">&#187; Số 649 + 650 Ng&#224;y 03/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-647%20-%20648-nam-2015(19487)">&#187; Số 647 + 648 Ng&#224;y 03/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-645%20-%20646-nam-2015(19485)">&#187; Số 645 + 646 Ng&#224;y 03/07</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-643%20-%20644-nam-2015(19476)">&#187; Số 643 + 644 Ng&#224;y 01/07</a></li>
+                        
+                    </ul>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    6</a>
+                    
+                    <ul class="l-month closed">
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-641%20-%20642-nam-2015(19468)">&#187; Số 641 + 642 Ng&#224;y 30/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-639%20-%20640-nam-2015(19463)">&#187; Số 639 + 640 Ng&#224;y 29/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-637%20-%20638-nam-2015(19454)">&#187; Số 637 + 638 Ng&#224;y 29/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-635%20-%20636-nam-2015(19449)">&#187; Số 635 + 636 Ng&#224;y 29/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-633%20-%20634-nam-2015(19446)">&#187; Số 633 + 634 Ng&#224;y 28/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-631%20-%20632-nam-2015(19444)">&#187; Số 631 + 632 Ng&#224;y 28/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-629%20-%20630-nam-2015(19436)">&#187; Số 629 + 630 Ng&#224;y 27/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-627%20-%20628-nam-2015(19427)">&#187; Số 627 + 628 Ng&#224;y 27/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-625%20-%20626-nam-2015(19426)">&#187; Số 625 + 626 Ng&#224;y 26/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-623%20-%20624-nam-2015(19423)">&#187; Số 623 + 624 Ng&#224;y 26/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-621%20-%20622-nam-2015(19411)">&#187; Số 621 + 622 Ng&#224;y 25/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-619%20-%20620-nam-2015(19410)">&#187; Số 619 + 620 Ng&#224;y 24/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-617%20-%20618-nam-2015(19401)">&#187; Số 617 + 618 Ng&#224;y 24/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-615%20-%20616-nam-2015(19398)">&#187; Số 615 + 616 Ng&#224;y 23/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-613%20-%20614-nam-2015(19393)">&#187; Số 613 + 614 Ng&#224;y 22/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-611%20-%20612-nam-2015(19370)">&#187; Số 611 + 612 Ng&#224;y 21/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-609%20-%20610-nam-2015(19379)">&#187; Số 609 + 610 Ng&#224;y 20/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-607%20-%20608-nam-2015(19366)">&#187; Số 607 + 608 Ng&#224;y 18/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-605%20-%20606-nam-2015(19365)">&#187; Số 605 + 606 Ng&#224;y 18/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-603%20-%20604-nam-2015(19364)">&#187; Số 603 + 604 Ng&#224;y 18/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-601%20-%20602-nam-2015(19361)">&#187; Số 601 + 602 Ng&#224;y 18/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-599%20-%20600-nam-2015(19352)">&#187; Số 599 + 600 Ng&#224;y 17/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-597%20-%20598-nam-2015(19347)">&#187; Số 597 + 598 Ng&#224;y 16/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-595%20-%20596-nam-2015(19340)">&#187; Số 595 + 596 Ng&#224;y 14/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-593%20-%20594-nam-2015(19328)">&#187; Số 593 + 594 Ng&#224;y 12/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-591%20-%20592-nam-2015(19321)">&#187; Số 591 + 592 Ng&#224;y 11/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-589%20-%20590-nam-2015(19310)">&#187; Số 589 + 590 Ng&#224;y 09/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-587%20-%20588-nam-2015(19297)">&#187; Số 587 + 588 Ng&#224;y 07/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-585%20-%20586-nam-2015(19285)">&#187; Số 585 + 586 Ng&#224;y 05/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-583%20-%20584-nam-2015(19280)">&#187; Số 583 + 584 Ng&#224;y 03/06</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-581%20-%20582-nam-2015(19271)">&#187; Số 581 + 582 Ng&#224;y 01/06</a></li>
+                        
+                    </ul>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    5</a>
+                    
+                    <ul class="l-month closed">
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-579%20-%20580-nam-2015(19249)">&#187; Số 579 + 580 Ng&#224;y 31/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-577%20-%20578-nam-2015(19245)">&#187; Số 577 + 578 Ng&#224;y 29/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-575%20-%20576-nam-2015(19239)">&#187; Số 575 + 576 Ng&#224;y 27/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-573%20-%20574-nam-2015(19238)">&#187; Số 573 + 574 Ng&#224;y 26/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-571%20-%20572-nam-2015(19237)">&#187; Số 571 + 572 Ng&#224;y 26/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-569%20-%20570-nam-2015(19234)">&#187; Số 569 + 570 Ng&#224;y 26/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-567%20-%20568-nam-2015(19222)">&#187; Số 567 + 568 Ng&#224;y 26/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-565%20-%20566-nam-2015(19216)">&#187; Số 565 + 566 Ng&#224;y 25/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-563%20-%20564-nam-2015(19208)">&#187; Số 563 + 564 Ng&#224;y 24/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-561%20-%20562-nam-2015(19204)">&#187; Số 561 + 562 Ng&#224;y 23/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-559%20-%20560-nam-2015(19194)">&#187; Số 559 + 560 Ng&#224;y 22/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-557%20-%20558-nam-2015(19191)">&#187; Số 557 + 558 Ng&#224;y 21/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-555%20-%20556-nam-2015(19187)">&#187; Số 555 + 556 Ng&#224;y 20/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-553%20-%20554-nam-2015(19181)">&#187; Số 553 + 554 Ng&#224;y 19/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-551%20-%20552-nam-2015(19172)">&#187; Số 551 + 552 Ng&#224;y 18/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-549%20-%20550-nam-2015(19166)">&#187; Số 549 + 550 Ng&#224;y 16/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-547%20-%20548-nam-2015(19152)">&#187; Số 547 + 548 Ng&#224;y 14/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-545%20-%20546-nam-2015(19141)">&#187; Số 545 + 546 Ng&#224;y 12/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-543%20-%20544-nam-2015(19131)">&#187; Số 543 + 544 Ng&#224;y 10/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-541%20-%20542-nam-2015(19119)">&#187; Số 541 + 542 Ng&#224;y 08/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-539%20-%20540-nam-2015(19105)">&#187; Số 539 + 540 Ng&#224;y 06/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-537%20-%20538-nam-2015(19098)">&#187; Số 537 + 538 Ng&#224;y 04/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-535%20-%20536-nam-2015(19089)">&#187; Số 535 + 536 Ng&#224;y 03/05</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-533%20-%20534-nam-2015(19080)">&#187; Số 533 + 534 Ng&#224;y 01/05</a></li>
+                        
+                    </ul>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    4</a>
+                    
+                    <ul class="l-month closed">
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-531%20-%20532-nam-2015(19066)">&#187; Số 531 + 532 Ng&#224;y 30/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-529%20-%20530-nam-2015(19057)">&#187; Số 529 + 530 Ng&#224;y 29/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-527%20-%20528-nam-2015(19033)">&#187; Số 527 + 528 Ng&#224;y 27/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-525%20-%20526-nam-2015(19018)">&#187; Số 525 + 526 Ng&#224;y 26/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-523%20-%20524-nam-2015(19013)">&#187; Số 523 + 524 Ng&#224;y 24/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-521%20-%20522-nam-2015(19003)">&#187; Số 521 + 522 Ng&#224;y 23/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-519%20-%20520-nam-2015(18989)">&#187; Số 519 + 520 Ng&#224;y 22/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-517%20-%20518-nam-2015(18979)">&#187; Số 517 + 518 Ng&#224;y 21/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-515%20-%20516-nam-2015(18978)">&#187; Số 515 + 516 Ng&#224;y 21/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-513%20-%20514-nam-2015(18977)">&#187; Số 513 + 514 Ng&#224;y 21/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-511%20-%20512-nam-2015(18976)">&#187; Số 511 + 512 Ng&#224;y 21/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-509%20-%20510-nam-2015(18972)">&#187; Số 509 + 510 Ng&#224;y 21/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-507%20-%20508-nam-2015(18966)">&#187; Số 507 + 508 Ng&#224;y 20/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-505%20-%20506-nam-2015(18957)">&#187; Số 505 + 506 Ng&#224;y 19/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-503%20-%20504-nam-2015(18953)">&#187; Số 503 + 504 Ng&#224;y 18/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-501%20-%20502-nam-2015(18946)">&#187; Số 501 + 502 Ng&#224;y 17/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-499%20-%20500-nam-2015(18937)">&#187; Số 499 + 500 Ng&#224;y 16/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-497%20-%20498-nam-2015(18936)">&#187; Số 497 + 498 Ng&#224;y 15/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-495%20-%20496-nam-2015(18935)">&#187; Số 495 + 496 Ng&#224;y 15/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-493%20-%20494-nam-2015(18934)">&#187; Số 493 + 494 Ng&#224;y 15/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-491%20-%20492-nam-2015(18933)">&#187; Số 491 + 492 Ng&#224;y 15/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-489%20-%20490-nam-2015(18931)">&#187; Số 489 + 490 Ng&#224;y 15/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-487%20-%20488-nam-2015(18930)">&#187; Số 487 + 488 Ng&#224;y 14/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-485%20-%20486-nam-2015(18926)">&#187; Số 485 + 486 Ng&#224;y 14/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-483%20-%20484-nam-2015(18925)">&#187; Số 483 + 484 Ng&#224;y 14/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-481%20-%20482-nam-2015(18924)">&#187; Số 481 + 482 Ng&#224;y 14/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-479%20-%20480-nam-2015(18921)">&#187; Số 479 + 480 Ng&#224;y 14/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-477%20-%20478-nam-2015(18910)">&#187; Số 477 + 478 Ng&#224;y 13/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-475%20-%20476-nam-2015(18907)">&#187; Số 475 + 476 Ng&#224;y 12/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-473%20-%20474-nam-2015(18897)">&#187; Số 473 + 474 Ng&#224;y 11/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-471%20-%20472-nam-2015(18891)">&#187; Số 471 + 472 Ng&#224;y 10/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-469%20-%20470-nam-2015(18884)">&#187; Số 469 + 470 Ng&#224;y 10/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-467%20-%20468-nam-2015(18879)">&#187; Số 467 + 468 Ng&#224;y 08/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-465%20-%20466-nam-2015(18875)">&#187; Số 465 + 466 Ng&#224;y 06/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-463%20-%20464-nam-2015(18862)">&#187; Số 463 + 464 Ng&#224;y 04/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-461-%20462-nam-2015(18858)">&#187; Số 461+ 462 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-459%20-%20460-nam-2015(18857)">&#187; Số 459 + 460 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-457%20-%20458-nam-2015(18856)">&#187; Số 457 + 458 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-455%20-%20456-nam-2015(18855)">&#187; Số 455 + 456 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-453%20-%20454-nam-2015(18854)">&#187; Số 453 + 454 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-451%20-%20452-nam-2015(18853)">&#187; Số 451 + 452 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-449%20-%20450-nam-2015(18852)">&#187; Số 449 + 450 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-447%20-%20448-nam-2015(18851)">&#187; Số 447 + 448 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-445%20-%20446-nam-2015(18850)">&#187; Số 445 + 446 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-443%20-%20444-nam-2015(18849)">&#187; Số 443 + 444 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-441%20-%20442-nam-2015(18846)">&#187; Số 441 + 442 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-439%20-%20440-nam-2015(18845)">&#187; Số 439 + 440 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-437%20-%20438-nam-2015(18843)">&#187; Số 437 + 438 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-435%20-%20436-nam-2015(18842)">&#187; Số 435 + 436 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-433%20-%20434-nam-2015(18841)">&#187; Số 433 + 434 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-431%20-%20432-nam-2015(18840)">&#187; Số 431 + 432 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-429%20-%20430-nam-2015(18839)">&#187; Số 429 + 430 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-427%20-%20428-nam-2015(18838)">&#187; Số 427 + 428 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-425%20-%20426-nam-2015(18837)">&#187; Số 425 + 426 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-423%20-%20424-nam-2015(18836)">&#187; Số 423 + 424 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-421%20-%20422-nam-2015(18835)">&#187; Số 421 + 422 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-419%20-%20420-nam-2015(18834)">&#187; Số 419 + 420 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-417%20-%20418-nam-2015(18833)">&#187; Số 417 + 418 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-415%20-%20416-nam-2015(18832)">&#187; Số 415 + 416 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-413%20-%20414-nam-2015(18831)">&#187; Số 413 + 414 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-411%20-%20412-nam-2015(18830)">&#187; Số 411 + 412 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-409%20-%20410-nam-2015(18829)">&#187; Số 409 + 410 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-407%20-%20408-nam-2015(18828)">&#187; Số 407 + 408 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-405%20-%20406-nam-2015(18826)">&#187; Số 405 + 406 Ng&#224;y 03/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-403%20-%20404-nam-2015(18824)">&#187; Số 403 + 404 Ng&#224;y 02/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-401%20-%20402-nam-2015(18818)">&#187; Số 401 + 402 Ng&#224;y 02/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-399%20-%20400-nam-2015(18815)">&#187; Số 399 + 400 Ng&#224;y 01/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-397%20-%20398-nam-2015(18803)">&#187; Số 397 + 398 Ng&#224;y 01/04</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-395%20-%20396-nam-2015(18795)">&#187; Số 395 + 396 Ng&#224;y 01/04</a></li>
+                        
+                    </ul>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    3</a>
+                    
+                    <ul class="l-month closed">
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-393%20-%20394-nam-2015(18790)">&#187; Số 393 + 394 Ng&#224;y 31/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-391%20-%20392-nam-2015(18779)">&#187; Số 391 + 392 Ng&#224;y 31/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-389%20-%20390-nam-2015(18782)">&#187; Số 389 + 390 Ng&#224;y 30/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-387%20-%20388-nam-2015(18768)">&#187; Số 387 + 388 Ng&#224;y 30/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-385%20-%20386-nam-2015(18766)">&#187; Số 385 + 386 Ng&#224;y 29/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-383%20-%20384-nam-2015(18764)">&#187; Số 383 + 384 Ng&#224;y 28/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-381%20-%20382-nam-2015(18761)">&#187; Số 381 + 382 Ng&#224;y 28/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-379%20-%20380-nam-2015(18755)">&#187; Số 379 + 380 Ng&#224;y 27/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-377%20-%20378-nam-2015(18750)">&#187; Số 377 + 378 Ng&#224;y 27/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-375%20-%20376-nam-2015(18744)">&#187; Số 375 + 376 Ng&#224;y 26/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-373%20-%20374-nam-2015(18735)">&#187; Số 373 + 374 Ng&#224;y 25/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-371%20-%20372-nam-2015(18731)">&#187; Số 371 + 372 Ng&#224;y 24/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-369%20-%20370-nam-2015(18728)">&#187; Số 369 + 370 Ng&#224;y 23/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-367%20-%20368-nam-2015(18718)">&#187; Số 367 + 368 Ng&#224;y 22/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-365%20-%20366-nam-2015(18712)">&#187; Số 365 + 366 Ng&#224;y 21/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-363%20-%20364-nam-2015(18699)">&#187; Số 363 + 364 Ng&#224;y 20/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-361%20-%20362-nam-2015(18693)">&#187; Số 361 + 362 Ng&#224;y 19/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-359%20-%20360-nam-2015(18677)">&#187; Số 359 + 360 Ng&#224;y 18/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-357%20-%20358-nam-2015(18657)">&#187; Số 357 + 358 Ng&#224;y 16/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-355%20-%20356-nam-2015(18655)">&#187; Số 355 + 356 Ng&#224;y 15/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-353%20-%20354-nam-2015(18650)">&#187; Số 353 + 354 Ng&#224;y 14/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-351%20-%20352-nam-2015(18649)">&#187; Số 351 + 352 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-349%20-%20350-nam-2015(18644)">&#187; Số 349 + 350 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-347%20-%20348-nam-2015(18643)">&#187; Số 347 + 348 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-345%20-%20346-nam-2015(18642)">&#187; Số 345 + 346 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-343%20-%20344-nam-2015(18641)">&#187; Số 343 + 344 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-341%20-%20342-nam-2015(18640)">&#187; Số 341 + 342 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-339%20-%20340-nam-2015(18639)">&#187; Số 339 + 340 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-337%20-%20338-nam-2015(18638)">&#187; Số 337 + 338 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-335%20-%20336-nam-2015(18637)">&#187; Số 335 + 336 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-333%20-%20334-nam-2015(18636)">&#187; Số 333 + 334 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-331%20-%20332-nam-2015(18635)">&#187; Số 331 + 332 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-329%20-%20330-nam-2015(18634)">&#187; Số 329 + 330 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-327%20-%20328-nam-2015(18633)">&#187; Số 327 + 328 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-325%20-%20326-nam-2015(18632)">&#187; Số 325 + 326 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-323%20-%20324-nam-2015(18631)">&#187; Số 323 + 324 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-321%20-%20322-nam-2015(18630)">&#187; Số 321 + 322 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-319%20-%20320-nam-2015(18629)">&#187; Số 319 + 320 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-317%20-%20318-nam-2015(18628)">&#187; Số 317 + 318 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-315%20-%20316-nam-2015(18627)">&#187; Số 315 + 316 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-313%20-%20314-nam-2015(18626)">&#187; Số 313 + 314 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-311%20-%20312-nam-2015(18625)">&#187; Số 311 + 312 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-309%20-%20310-nam-2015(18624)">&#187; Số 309 + 310 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-307%20-%20308-nam-2015(18623)">&#187; Số 307 + 308 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-305%20-%20306-nam-2015(18622)">&#187; Số 305 + 306 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-303%20-%20304-nam-2015(18621)">&#187; Số 303 + 304 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-301%20-%20302-nam-2015(18619)">&#187; Số 301 + 302 Ng&#224;y 11/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-299%20-%20300-nam-2015(18614)">&#187; Số 299 + 300 Ng&#224;y 09/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-297%20-%20298-nam-2015(18606)">&#187; Số 297 + 298 Ng&#224;y 07/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-295%20-%20296-nam-2015(18594)">&#187; Số 295 + 296 Ng&#224;y 05/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-293%20-%20294-nam-2015(18591)">&#187; Số 293 + 294 Ng&#224;y 03/03</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-291%20-%20292-nam-2015(18581)">&#187; Số 291 + 292 Ng&#224;y 01/03</a></li>
+                        
+                    </ul>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    2</a>
+                    
+                    <ul class="l-month closed">
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-289%20-%20290-nam-2015(18580)">&#187; Số 289 + 290 Ng&#224;y 28/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-287%20-%20288-nam-2015(18579)">&#187; Số 287 + 288 Ng&#224;y 28/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-285%20-%20286-nam-2015(18578)">&#187; Số 285 + 286 Ng&#224;y 28/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-283%20-%20284-nam-2015(18577)">&#187; Số 283 + 284 Ng&#224;y 28/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-281%20-%20282-nam-2015(18576)">&#187; Số 281 + 282 Ng&#224;y 28/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-279%20-%20280-nam-2015(18559)">&#187; Số 279 + 280 Ng&#224;y 28/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-277%20-%20278-nam-2015(18546)">&#187; Số 277 + 278 Ng&#224;y 26/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-275%20-%20276-nam-2015(18537)">&#187; Số 275 + 276 Ng&#224;y 25/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-273%20-%20274-nam-2015(18568)">&#187; Số 273 + 274 Ng&#224;y 24/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-271%20-%20272-nam-2015(18562)">&#187; Số 271 + 272 Ng&#224;y 24/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-269%20-%20270-nam-2015(18524)">&#187; Số 269 + 270 Ng&#224;y 23/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-267%20-%20268-nam-2015(18519)">&#187; Số 267 + 268 Ng&#224;y 22/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-265%20-%20266-nam-2015(18509)">&#187; Số 265 + 266 Ng&#224;y 21/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-263%20-%20264-nam-2015(18497)">&#187; Số 263 + 264 Ng&#224;y 20/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-261%20-%20262-nam-2015(18494)">&#187; Số 261 + 262 Ng&#224;y 19/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-259%20-%20260-nam-2015(18493)">&#187; Số 259 + 260 Ng&#224;y 18/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-257%20-%20258-nam-2015(18482)">&#187; Số 257 + 258 Ng&#224;y 18/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-255%20-%20256-nam-2015(18481)">&#187; Số 255 + 256 Ng&#224;y 17/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-253%20-%20254-nam-2015(18480)">&#187; Số 253 + 254 Ng&#224;y 17/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-251%20-%20252-nam-2015(18479)">&#187; Số 251 + 252 Ng&#224;y 17/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-249%20-%20250-nam-2015(18478)">&#187; Số 249 + 250 Ng&#224;y 17/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-247%20-%20248-nam-2015(18477)">&#187; Số 247 + 248 Ng&#224;y 17/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-245%20-%20246-nam-2015(18471)">&#187; Số 245 + 246 Ng&#224;y 17/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-243%20-%20244-nam-2015(18462)">&#187; Số 243 + 244 Ng&#224;y 16/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-241%20-%20242-nam-2015(18452)">&#187; Số 241 + 242 Ng&#224;y 15/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-239%20-%20240-nam-2015(18440)">&#187; Số 239 + 240 Ng&#224;y 14/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-237%20-%20238-nam-2015(18434)">&#187; Số 237 + 238 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-235%20-%20236-nam-2015(18433)">&#187; Số 235 + 236 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-233%20-%20234-nam-2015(18432)">&#187; Số 233 + 234 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-231%20-%20232-nam-2015(18431)">&#187; Số 231 + 232 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-229%20-%20230-nam-2015(18430)">&#187; Số 229 + 230 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-227%20-%20228-nam-2015(18429)">&#187; Số 227 + 228 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-225%20-%20226-nam-2015(18428)">&#187; Số 225 + 226 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-223%20-%20224-nam-2015(18427)">&#187; Số 223 + 224 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-221%20-%20222-nam-2015(18426)">&#187; Số 221 + 222 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-219%20-%20220-nam-2015(18425)">&#187; Số 219 + 220 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-217%20-%20218-nam-2015(18424)">&#187; Số 217 + 218 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-215%20-%20216-nam-2015(18423)">&#187; Số 215 + 216 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-213%20-%20214-nam-2015(18421)">&#187; Số 213 + 214 Ng&#224;y 12/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-211%20-%20212-nam-2015(18416)">&#187; Số 211 + 212 Ng&#224;y 11/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-209%20-%20210-nam-2015(18415)">&#187; Số 209 + 210 Ng&#224;y 11/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-207%20-%20208-nam-2015(18413)">&#187; Số 207 + 208 Ng&#224;y 11/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-205%20-%20206-nam-2015(18412)">&#187; Số 205 + 206 Ng&#224;y 10/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-203%20-%20204-nam-2015(18411)">&#187; Số 203 + 204 Ng&#224;y 10/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-201%20-%20202-nam-2015(18410)">&#187; Số 201 + 202 Ng&#224;y 10/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-199%20-%20200-nam-2015(18408)">&#187; Số 199 + 200 Ng&#224;y 10/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-197%20-%20198-nam-2015(18400)">&#187; Số 197 + 198 Ng&#224;y 09/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-195%20-%20196-nam-2015(18395)">&#187; Số 195 + 196 Ng&#224;y 08/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-193%20-%20194-nam-2015(18389)">&#187; Số 193 + 194 Ng&#224;y 07/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-191%20-%20192-nam-2015(18385)">&#187; Số 191 + 192 Ng&#224;y 06/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-189%20-%20190-nam-2015(18382)">&#187; Số 189 + 190 Ng&#224;y 05/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-187%20-%20188-nam-2015(18381)">&#187; Số 187 + 188 Ng&#224;y 04/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-185%20-%20186-nam-2015(18380)">&#187; Số 185 + 186 Ng&#224;y 04/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-183%20-%20184-nam-2015(18367)">&#187; Số 183 + 184 Ng&#224;y 04/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-181%20-%20182-nam-2015(18358)">&#187; Số 181 + 182 Ng&#224;y 03/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-179%20-%20180-nam-2015(18340)">&#187; Số 179 + 180 Ng&#224;y 02/02</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-177%20-%20178-nam-2015(18333)">&#187; Số 177 + 178 Ng&#224;y 01/02</a></li>
+                        
+                    </ul>
+                </li>
+                
+                <li><a class="a-month">Tháng
+                    1</a>
+                    
+                    <ul class="l-month closed">
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-175%20-%20176-nam-2015(18322)">&#187; Số 175 + 176 Ng&#224;y 31/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-173%20-%20174-nam-2015(18319)">&#187; Số 173 + 174 Ng&#224;y 31/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-171%20-%20172-nam-2015(18310)">&#187; Số 171 + 172 Ng&#224;y 30/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-169%20-%20170-nam-2015(18309)">&#187; Số 169 + 170 Ng&#224;y 29/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-167%20-%20168-nam-2015(18300)">&#187; Số 167 + 168 Ng&#224;y 29/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-165%20-%20166-nam-2015(18296)">&#187; Số 165 + 166 Ng&#224;y 28/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-163%20-%20164-nam-2015(18292)">&#187; Số 163 + 164 Ng&#224;y 28/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-161%20-%20162-nam-2015(18282)">&#187; Số 161 + 162 Ng&#224;y 27/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-159%20-%20160-nam-2015(18279)">&#187; Số 159 + 160 Ng&#224;y 27/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-157%20-%20158-nam-2015(18276)">&#187; Số 157 + 158 Ng&#224;y 26/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-155%20-%20156-nam-2015(18271)">&#187; Số 155 + 156 Ng&#224;y 26/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-153%20-%20154-nam-2015(18257)">&#187; Số 153 + 154 Ng&#224;y 25/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-151%20-%20152-nam-2015(18241)">&#187; Số 151 + 152 Ng&#224;y 24/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-149%20-%20150-nam-2015(18236)">&#187; Số 149 + 150 Ng&#224;y 24/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-147%20-%20148-nam-2015(18229)">&#187; Số 147 + 148 Ng&#224;y 23/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-145%20-%20146-nam-2015(18225)">&#187; Số 145 + 146 Ng&#224;y 23/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-143%20-%20144-nam-2015(18208)">&#187; Số 143 + 144 Ng&#224;y 23/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-141%20-%20142-nam-2015(18203)">&#187; Số 141 + 142 Ng&#224;y 22/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-139%20-%20140-nam-2015(18202)">&#187; Số 139 + 140 Ng&#224;y 22/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-137%20-%20138-nam-2015(18201)">&#187; Số 137 + 138 Ng&#224;y 22/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-135%20-%20136-nam-2015(18200)">&#187; Số 135 + 136 Ng&#224;y 22/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-133%20-%20134-nam-2015(18199)">&#187; Số 133 + 134 Ng&#224;y 22/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-131%20-%20132-nam-2015(18193)">&#187; Số 131 + 132 Ng&#224;y 22/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-129%20-%20130-nam-2015(18191)">&#187; Số 129 + 130 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-127%20-%20128-nam-2015(18190)">&#187; Số 127 + 128 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-125%20-%20126-nam-2015(18189)">&#187; Số 125 + 126 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-123%20-%20124-nam-2015(18188)">&#187; Số 123 + 124 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-121%20-%20122-nam-2015(18183)">&#187; Số 121 + 122 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-119%20-%20120-nam-2015(18181)">&#187; Số 119 + 120 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-117%20-%20118-nam-2015(18180)">&#187; Số 117 + 118 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-115%20-%20116-nam-2015(18179)">&#187; Số 115 + 116 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-113%20-%20114-nam-2015(18178)">&#187; Số 113 + 114 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-111%20-%20112-nam-2015(18177)">&#187; Số 111 + 112 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-109%20-%20110-nam-2015(18176)">&#187; Số 109 + 110 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-107%20-%20108-nam-2015(18173)">&#187; Số 107 + 108 Ng&#224;y 21/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-105%20-%20106-nam-2015(18172)">&#187; Số 105 + 106 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-103%20-%20104-nam-2015(18171)">&#187; Số 103 + 104 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-101%20-%20102-nam-2015(18170)">&#187; Số 101 + 102 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-99%20-%20100-nam-2015(18169)">&#187; Số 99 + 100 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-97%20-%2098-nam-2015(18168)">&#187; Số 97 + 98 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-95%20-%2096-nam-2015(18163)">&#187; Số 95 + 96 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-93%20-%2094-nam-2015(18162)">&#187; Số 93 + 94 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-91%20-%2092-nam-2015(18161)">&#187; Số 91 + 92 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-89%20-%2090-nam-2015(18160)">&#187; Số 89 + 90 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-87%20-%2088-nam-2015(18158)">&#187; Số 87 + 88 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-85%20-%2086-nam-2015(18155)">&#187; Số 85 + 86 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-83%20-%2084-nam-2015(18143)">&#187; Số 83 + 84 Ng&#224;y 20/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-81%20-%2082-nam-2015(18133)">&#187; Số 81 + 82 Ng&#224;y 19/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-79%20-%2080-nam-2015(18126)">&#187; Số 79 + 80 Ng&#224;y 19/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-77%20-%2078-nam-2015(18125)">&#187; Số 77 + 78 Ng&#224;y 19/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-75%20-%2076-nam-2015(18121)">&#187; Số 75 + 76 Ng&#224;y 19/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-73%20-%2074-nam-2015(18116)">&#187; Số 73 + 74 Ng&#224;y 18/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-71%20-%2072-nam-2015(18107)">&#187; Số 71 + 72 Ng&#224;y 18/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-69%20-%2070-nam-2015(18106)">&#187; Số 69 + 70 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-67%20-%2068-nam-2015(18105)">&#187; Số 67 + 68 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-65%20-%2066-nam-2015(18104)">&#187; Số 65 + 66 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-63%20-%2064-nam-2015(18103)">&#187; Số 63 + 64 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-61%20-%2062-nam-2015(18102)">&#187; Số 61 + 62 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-59%20-%2060-nam-2015(18101)">&#187; Số 59 + 60 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-57%20-%2058-nam-2015(18098)">&#187; Số 57 + 58 Ng&#224;y 17/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-55%20-%2056-nam-2015(18091)">&#187; Số 55 + 56 Ng&#224;y 15/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-53%20-%2054-nam-2015(18080)">&#187; Số 53 + 54 Ng&#224;y 14/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-51%20-%2052-nam-2015(18074)">&#187; Số 51 + 52 Ng&#224;y 13/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-49%20-%2050-nam-2015(18068)">&#187; Số 49 + 50 Ng&#224;y 13/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-47%20-%2048-nam-2015(18056)">&#187; Số 47 + 48 Ng&#224;y 12/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-45%20-%2046-nam-2015(18054)">&#187; Số 45 + 46 Ng&#224;y 11/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-43%20-%2044-nam-2015(18037)">&#187; Số 43 + 44 Ng&#224;y 11/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-41%20-%2042-nam-2015(18025)">&#187; Số 41 + 42 Ng&#224;y 10/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-39%20-%2040-nam-2015(18018)">&#187; Số 39 + 40 Ng&#224;y 10/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-37%20-%2038-nam-2015(18000)">&#187; Số 37 + 38 Ng&#224;y 09/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-35%20-%2036-nam-2015(17983)">&#187; Số 35 + 36 Ng&#224;y 08/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-33%20-%2034-nam-2015(17993)">&#187; Số 33 + 34 Ng&#224;y 08/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-31%20-%2032-nam-2015(17990)">&#187; Số 31 + 32 Ng&#224;y 08/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-29%20-%2030-nam-2015(17969)">&#187; Số 29 + 30 Ng&#224;y 07/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-27%20-%2028-nam-2015(17966)">&#187; Số 27 + 28 Ng&#224;y 07/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-25%20-%2026-nam-2015(17961)">&#187; Số 25 + 26 Ng&#224;y 07/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-23%20-%2024-nam-2015(17956)">&#187; Số 23 + 24 Ng&#224;y 06/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-21%20-%2022-nam-2015(17953)">&#187; Số 21 + 22 Ng&#224;y 05/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-19%20-%2020-nam-2015(17947)">&#187; Số 19 + 20 Ng&#224;y 05/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-17%20-%2018-nam-2015(17946)">&#187; Số 17 + 18 Ng&#224;y 04/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-15%20-%2016-nam-2015(17945)">&#187; Số 15 + 16 Ng&#224;y 04/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-13%20-%2014-nam-2015(17944)">&#187; Số 13 + 14 Ng&#224;y 04/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-11%20-%2012-nam-2015(17943)">&#187; Số 11 + 12 Ng&#224;y 04/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-09%20-%2010-nam-2015(17937)">&#187; Số 09 + 10 Ng&#224;y 04/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-07%20-%2008-nam-2015(17928)">&#187; Số 07 + 08 Ng&#224;y 03/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-05%20-%2006-nam-2015(17927)">&#187; Số 05 + 06 Ng&#224;y 02/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-03%20-%2004-nam-2015(17924)">&#187; Số 03 + 04 Ng&#224;y 02/01</a></li>
+                        
+                        <li class="">
+                            <a href="/cong-bao-so-01%20-%2002-nam-2015(17898)">&#187; Số 01 + 02 Ng&#224;y 01/01</a></li>
+                        
+                    </ul>
+                </li>
+                                  
+            </ul>
+        </div>
+        
+        <div style="clear: both;">
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="span-18 last" id="content">
+                
+<div class="search" style="display:block;">
+    <div class="search-title">
+        <img src="/Content/images/search.png" style="vertical-align: text-top;" />Tìm
+        kiếm
+    </div>
+    <div class="search-content">
+        <form action="/tim-kiem-van-ban" method="get">
+        Từ khóa:
+        <input id="q" name="q" type="text" value="" />
+        <input type="submit" value="Tìm kiếm" id="btnSearch" />
+        </form>
+    </div>
+</div>
+<div class="adv-search">
+    <div class="adv-search-title">
+        <a class="a-search">
+            <img src="/Content/images/open.png" />
+            Tìm kiếm nâng cao (ấn vào để mở)</a>
+    </div>
+    <div class="adv-search-content"
+        style="">
+        <form action="/VanBan/TimKiemNangCao" method="get">
+        <table>
+            <tr>
+                <td>
+                    Nội dung văn bản:
+                </td>
+                <td>
+                    <input id="q" name="q" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Cơ quan ban hành:
+                </td>
+                <td>
+                    <select id="cq" name="cq"><option value="">--</option>
+<option value="97">2015&quot;</option>
+<option value="110">BAN CHỈ ĐẠO 896</option>
+<option value="125">BAN CHỈ ĐẠO CẢI C&#193;CH H&#192;NH CH&#205;NH CỦA CH&#205;NH PHỦ</option>
+<option value="51">BAN CHỈ ĐẠO CHƯƠNG TR&#204;NH PH&#193;T TRIỀN SẢN PHẨM QUỐC GIA ĐẾN NĂM 2020</option>
+<option value="16">BAN CHỈ ĐẠO CƠ KH&#205; TRỌNG ĐIỂM</option>
+<option value="124">BAN CHỈ ĐẠO ĐIỀU H&#192;NH GI&#193;</option>
+<option value="98">BAN CHỈ ĐẠO LI&#202;N NGH&#192;NH TRIỀN KHAI ĐỀ &#193;N &quot;CƠ CẤU LẠI HỆ THỐNG C&#193;C TỔ CHỨC T&#205;N DỤNG GIAI ĐOẠN 2011</option>
+<option value="87">BAN CHỈ ĐẠO NH&#192; NƯỚC C&#193;C C&#212;NG TR&#204;NH, DỰ &#193;N TRỌNG ĐIỂM NG&#192;NH GIAO TH&#212;NG VẬN TẢI</option>
+<option value="48">BAN CHỈ ĐẠO NH&#192; NƯỚC C&#193;C C&#212;NG TR&#204;NH, DỰ &#193;N TRỌNG ĐIỂM NG&#192;NH GTVT</option>
+<option value="52">BAN CHỈ ĐẠO NH&#192; NƯỚC VỀ QUY HOẠCH PH&#193;T TRIỀN ĐIỆN LỰC QUỐC GIA</option>
+<option value="106">BAN CHỈ ĐẠO PH&#210;NG, CHỐNG TỘI PHẠM CỦA CH&#205;NH PHỦ</option>
+<option value="92">BAN CHỈ ĐẠO PPP</option>
+<option value="117">BAN CHỈ ĐẠO QUỐC GIA CHỐNG BU&#212;N L&#194;U, GIAN LẬN THƯƠNG MẠI V&#192; H&#192;NG GIẢ</option>
+<option value="75">BAN CHỈ ĐẠO QUỐC GIA HỘI NHẬP QUỐC TẾ VỀ GI&#193;O DỤC V&#192; KHOA HỌC, C&#212;NG NGHỆ</option>
+<option value="93">BAN CHỈ ĐẠO QUỐC GIA THỰC HIỆN QUY HOẠCH PH&#193;T TRIỂN NH&#194;N LỰC V&#192; Đ&#192;O TẠO THEO NHU CẦU X&#195; HỘI</option>
+<option value="114">BAN CHỈ ĐẠO QUỐC GIA VỀ HỘI NHẬP QUỐC TẾ</option>
+<option value="123">BAN CHỈ ĐẠO QUỐC GIA VỀ Y TẾ BIỂN ĐẢO</option>
+<option value="66">BAN CHỈ ĐẠO QUỐC GIA X&#194;Y DỰNG X&#195; HỘI HỌC TẬP</option>
+<option value="9">BAN CHỈ ĐẠO TRUNG ƯƠNG CHƯƠNG TR&#204;NH MTQG X&#194;Y DỰNG N&#212;NG TH&#212;N MỚI</option>
+<option value="70">BAN CHỈ ĐẠO TRUNG ƯƠNG THỰC HIỆN QUYẾT ĐỊNH SỐ 1956/QĐ-TTg</option>
+<option value="53">BAN CHỈ ĐẠO TRUNG ƯƠNG THỰC HIỆN TH&#205; ĐIỂM KH&#212;NG TỔ CHỨC HỘI ĐỒNG NH&#194;N D&#194;N HUYỆN, QUẬN, PHƯỜNG</option>
+<option value="109">BAN CHỈ ĐAO TRUNG ƯƠNG VỀ CẢI C&#193;CH CH&#205;NH S&#193;CH TIỀN LƯƠNG, BẢO HIỂM X&#195; HỘI</option>
+<option value="134">BAN CHỈ ĐẠO TRƯNG ƯƠNG VỀ CẢI C&#193;CH CH&#205;NH S&#193;CH TIỀN LƯƠNG, BẢO HIỂM X&#195; HỘI V&#192; ƯU Đ&#195;I NGƯỜI C&#211; C&#212;NG</option>
+<option value="74">BAN CH&#204; ĐẠO TRUNG ƯƠNG X&#194;Y DỰNG ĐỀ &#193;N TH&#205; ĐIỂM M&#212; H&#204;NH TỒ CHỨC CH&#205;NH QUYỀN Đ&#212; THỊ</option>
+<option value="89">BAN CHỈ ĐẠO VỀ ĐẦU TƯ THEO H&#204;NH THỨC ĐỐI T&#193;C C&#212;NG</option>
+<option value="90">BCH TRUNG ƯƠNG ĐO&#192;N TNCS HỒ CH&#205; MINH</option>
+<option value="27">BỘ C&#212;NG AN</option>
+<option value="86">BỘ C&#212;NG AN – BỘ TƯ PH&#193;P – VIỆN KIỂM S&#193;T NH&#194;N D&#194;N TỐI CAO – T&#210;A &#193;N NH&#194;N D&#194;N TỐI CAO</option>
+<option value="28">BỘ C&#212;NG THƯƠNG</option>
+<option value="133">BỘ GI&#193;O DỤC Đ&#192;O TẠO</option>
+<option value="29">BỘ GI&#193;O DỤC V&#192; Đ&#192;O TẠO</option>
+<option value="22">BỘ GIAO TH&#212;NG VẬN TẢI</option>
+<option value="128">BỘ GIAO TH&#212;NG VẬN TẢII</option>
+<option value="99">BỘ K&#201; HOẠCH V&#192; ĐẦU TƯ</option>
+<option value="17">BỘ KẾ HOẠCH V&#192; ĐẦU TƯ</option>
+<option value="4">BỘ KHOA HỌC V&#192; C&#212;NG NGHỆ</option>
+<option value="132">BỘ KHOA HỌC V&#192; CỒNG NGHỆ</option>
+<option value="127">BỘ LAO ĐỘNG</option>
+<option value="32">BỘ LAO ĐỘNG - THƯƠNG BINH V&#192; X&#195; HỘI</option>
+<option value="83">BỘ LAO ĐỘNG THƯƠNG BINH V&#192; X&#195; HỘI</option>
+<option value="10">BỘ NGOẠI GIAO</option>
+<option value="5">BỘ NỘI VỤ</option>
+<option value="91">BỘ N&#212;NG NGHIỆP V&#192; PH&#193;T TRIỀN N&#212;NG TH&#212;N</option>
+<option value="15">BỘ N&#212;NG NGHIỆP V&#192; PH&#193;T TRIỂN N&#212;NG TH&#212;N</option>
+<option value="120">BỘ N&#212;NG NHIỆP V&#192; PH&#193;T TRIỂN N&#212;NG TH&#212;N</option>
+<option value="26">BỘ QUỐC PH&#210;NG</option>
+<option value="107">BỘ QUỐCPH&#210;NG</option>
+<option value="95">BỘ T&#192;I CHINH</option>
+<option value="6">BỘ T&#192;I CH&#205;NH</option>
+<option value="23">BỘ T&#192;I NGUY&#202;N V&#192; M&#212;I TRƯỜNG</option>
+<option value="21">BỘ TH&#212;NG TIN V&#192; TRUYỀN TH&#212;NG</option>
+<option value="24">BỘ TƯ PH&#193;P</option>
+<option value="131">BỘ VĂN H&#211;A</option>
+<option value="12">BỘ VĂN H&#211;A, THỂ THAO V&#192; DU LỊCH</option>
+<option value="116">BỘ X&#194;Y DƯNG</option>
+<option value="19">BỘ X&#194;Y DỰNG</option>
+<option value="96">BỘ Y T&#201;</option>
+<option value="7">BỘ Y TẾ</option>
+<option value="113">BOỌ TƯ PH&#193;P</option>
+<option value="3">CH&#205;NH PHỦ</option>
+<option value="2">CHỦ TỊCH NƯỚC</option>
+<option value="103">HỘI ĐỒNG PH&#193;T TRIỂN, ỨNG DỤNG NĂNG LƯỢNG NGUY&#202;N TỬ QUỐC GIA</option>
+<option value="115">H&#212;I ĐỒNG THẨM PH&#193;N T&#210;A &#193;N NH&#194;N D&#194;N TỐI CAO</option>
+<option value="72">HỘI ĐỒNG THẨM PH&#193;N T&#210;A &#193;N NH&#194;N D&#194;N TỐI CAO</option>
+<option value="100">HỘI ĐỒNG THẨM PH&#193;N T&#210;A &#193;N NH&#194;N DẦN TỐI CAO</option>
+<option value="69">HỘI ĐỒNG TƯ VẤN ĐẶC X&#193;</option>
+<option value="42">KIỂM TO&#193;N NH&#192; NƯỚC</option>
+<option value="94">LI&#202;N BỘ, LI&#202;N NG&#192;NH</option>
+<option value="73">NG&#194;N H&#192;NG NH&#192; NƯỚC</option>
+<option value="119">NG&#194;N HẨNG NH&#192; NƯỚC VỆT NAM</option>
+<option value="8">NG&#194;N H&#192;NG NH&#192; NƯỚC VIỆT NAM</option>
+<option value="121">NGẦN H&#192;NG NH&#192; NƯỚC VIỆT NAM</option>
+<option value="34">QUỐC HỘI</option>
+<option value="40">THANH TRA CH&#205;NH PHỦ</option>
+<option value="130">THỂ THAO V&#192; DU LỊCH</option>
+<option value="1">THỦ TƯỚNG CH&#205;NH PHỦ</option>
+<option value="126">THƯƠNG B&#204;NH V&#192; X&#195; HỘI</option>
+<option value="39">T&#210;A &#193;N NH&#194;N D&#194;N TỐI CAO</option>
+<option value="104">T&#210;A &#193;N NH&#194;N DẦN TỐI CAO</option>
+<option value="88">TƯ</option>
+<option value="58">ỦY BAN AN NINH H&#192;NG KH&#212;NG D&#194;N DỤNG QUỐC GIA</option>
+<option value="30">ỦY BAN D&#194;N TỘC</option>
+<option value="101">ỦY BAN DẦN TỘC</option>
+<option value="122">ỦY BAN PH&#193;P LUẬT</option>
+<option value="56">ỦY BAN QUỐC GIA VỀ BIẾN ĐỔI KH&#205; HẬU</option>
+<option value="33">ỦY BAN THƯỜNG VỤ QUỐC HỘI</option>
+<option value="129">ỦY BAN TRUNG ƯƠNG MẶT TRẬN TỔ QUỐC VIỆT NAM</option>
+<option value="102">VĂN BẢN HỢP NHẤT</option>
+<option value="108">VĂN BẢN HỢP NHẮT</option>
+<option value="44">VĂN PH&#210;NG CH&#205;NH PHỦ</option>
+<option value="80">VĂN PH&#210;NG QUỐC HỘI</option>
+<option value="118">VỆN KIỂM S&#193;T NH&#194;N D&#194;N TỐI CAO</option>
+<option value="111">VIỆN KỀM S&#193;T NH&#194;N D&#194;N TỐI CAO</option>
+<option value="85">VIỆN KI&#202;M S&#193;T NH&#194;N D&#194;N TỐI CAO</option>
+<option value="45">VIỆN KIỂM S&#193;T NH&#194;N D&#194;N TỐI CAO</option>
+<option value="112">VIỆN KIỂM S&#193;T NH&#194;N D&#194;N TỐI C&#193;O</option>
+<option value="105">VIỆN KIỂM S&#193;T NH&#194;N DẦN TỐI CAO</option>
+</select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Ngày ban hành:
+                </td>
+                <td>
+                    Từ&nbsp;           
+                    <input id="txtTuNgay" name="tu" type="text" value="" />
+                    &nbsp;Đến&nbsp;
+                    <input id="txtDenNgay" name="den" type="text" value="" />                    
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Số văn bản:
+                </td>
+                <td>
+                    <input id="svb" name="svb" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Trích yếu:
+                </td>
+                <td>
+                    <input id="ty" name="ty" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Loại văn bản:
+                </td>
+                <td>
+                    <select id="loai" name="loai"><option value="">--</option>
+<option value="4">Chỉ thị</option>
+<option value="17">C&#244;ng điện</option>
+<option value="13">C&#244;ng văn</option>
+<option value="25">C&#244;ng văn đ&#237;nh ch&#237;nh</option>
+<option value="14">Đ&#237;nh ch&#237;nh</option>
+<option value="27">Hiến ph&#225;p</option>
+<option value="19">Hướng dẫn</option>
+<option value="5">Kế hoạch</option>
+<option value="15">Lệnh</option>
+<option value="16">Luật</option>
+<option value="2">Nghị định</option>
+<option value="11">Nghị quyết</option>
+<option value="23">Nghị quyết li&#234;n tịch</option>
+<option value="18">Ph&#225;p lệnh</option>
+<option value="26">Quy chế li&#234;n ng&#224;nh</option>
+<option value="1">Quyết định</option>
+<option value="6">Sao lục</option>
+<option value="30">Th&#244;ng</option>
+<option value="12">Th&#244;ng b&#225;o</option>
+<option value="3">Th&#244;ng tư</option>
+<option value="10">Th&#244;ng tư li&#234;n tịch</option>
+<option value="20">Văn bản hợp nhất</option>
+</select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Người ký:
+                </td>
+                <td>
+                    <input id="nk" name="nk" type="text" value="" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <div style="text-align: center;">
+                        <input type="submit" value="Tìm kiếm" id="btnAdvSearch" />
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </form>
+    </div>
+</div>
+
+    
+<table width="95%" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td colspan="3" class="vanban_columnheader" style="color: black;">
+                <span>Số:781 + 782
+                </span><span style="float: right">
+                    Ng&#224;y 14 th&#225;ng 07 năm 2015</span>
+            </td>
+        </tr>
+        <tr>
+            <td width="100px" align="left">
+                &nbsp;
+            </td>
+            <td align="center" style="text-align: center;">
+                <font size="5" color="black" style="font-family: Verdana,Times New Roman,Arial;font-weight: bold;">MỤC LỤC</font>
+            </td>
+            <td width="40px" align="right" style="text-align: right;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr class="vanban_columnheader">
+            <td width="70px" align="left" class="vanban_columnheader" style="text-align: left;
+                font-weight: bold;">                
+            </td>
+            <td align="center" class="vanban_columnheader" style="text-align: center; font-weight: bold;">
+             
+            </td>
+            <td width="65px" align="right" class="vanban_columnheader" style="text-align: right;
+                font-weight: bold;">
+                Trang &nbsp;&nbsp;
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div style="overflow-y: scroll; height: 650px; width: 100%;">
+    <table width="95%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+            
+<tr>
+    
+    <td />
+    <td align="center" valign="middle" class="coquanbanhanh tieudephan" style="font-size: 14px;" >
+        PHẦN VĂN BẢN QUY PHẠM PHÁP LUẬT
+    </td>
+    <td />
+    
+    <td />
+</tr>
+
+<tr>
+    <td />
+    <td align="center" valign="middle" class="coquanbanhanh">
+        BỘ LAO ĐỘNG - THƯƠNG BINH V&#192; X&#195; HỘI
+    </td>
+    <td />
+</tr>
+
+<tr>
+    <td width="70px" class="congbao_ngay" valign="right" style="vertical-align: top; font-size: 95%;">
+17-06-2015 - 
+</td>
+    <td>
+<a href="/noi-dung-van-ban-so-20_2015_TT-BL%C4%90TBXH-(19580)?cbid=19592" class="vanban_congbao">Thông tư số 20/2015/TT-BLĐTBXH ban hành Danh mục thiết bị dạy nghề trọng điểm cấp độ quốc gia trình độ trung cấp nghề, trình độ cao đẳng nghề cho các nghề: Gia công và thiết kế sản phẩm mộc; Công nghệ thông tin (ứng dụng phần mềm); Xây dựng cầu đường bộ; Nguội sửa chữa máy công cụ; Kỹ thuật máy nông nghiệp; Sửa chữa máy thi công xây dựng; Vận hành máy thi công nền; Vận hành máy thi công mặt đường; Cơ điện nông thôn; Xử lý nước thải công nghiệp; Chế biến thực phẩm; Chế biến và bảo quản thủy sản; Trồng cây công nghiệp; Chăn nuôi gia súc, gia cầm; Lâm sinh; Khai thác, đánh bắt hải sản; Thú y; Hướng dẫn du lịch; Điều khiển phương tiện thủy nội địa; Khai thác máy tàu thủy.</a></td>
+    <td width="20px" align="right" style="text-align: right; vertical-align: bottom;">
+        2
+    </td>
+</tr>
+
+<tr>
+    <td />
+    <td align="right" valign="middle" style="text-align: right;">
+        (Đăng từ C&#244;ng b&#225;o số 757 + 758 đến số 781 + 782)
+    </td>
+    <td />
+</tr>
+
+        </tbody>
+    </table>
+</div>
+
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        <div class="span-24" id="footer-top"></div>
+        <div class="span-24" id="footer">
+            
+© CỔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ<br>
+Tổng Giám đốc: Vi Quang Đạo<br>
+Trụ sở: 16. Lê Hồng Phong - Ba Đình - Hà Nội.<br>
+Điện thoại: Văn phòng: 080 43162; Fax: 080.48924; Email: thongtinchinhphu@chinhphu.vn.<br>
+Bản quyền thuộc Cổng Thông tin điện tử Chính phủ.<br>
+Ghi rõ nguồn 'Cổng Thông tin điện tử Chính phủ' hoặc 'www.chinhphu.vn' khi phát hành lại thông tin từ các nguồn này. 
+        </div>
+    </div>
+</body>
+</html>
